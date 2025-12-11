@@ -1,0 +1,5 @@
+{
+  "name": "QR Code Generator",
+  "description": "تطبيق حديث وسريع لتحويل الروابط إلى صور باركود (QR) قابلة للتحميل.",
+  "requestFramePermissions": []
+}
